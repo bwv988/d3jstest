@@ -1,0 +1,23 @@
+{
+  "name": "d3jstest",
+  "version": "1.0.0",
+  "description": "Playing with D3.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwv988/d3jstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwv988/d3jstest/issues"
+  },
+  "homepage": "https://github.com/bwv988/d3jstest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
